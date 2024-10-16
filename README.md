@@ -1,3 +1,5 @@
+# THIS PROJECT HAS BEEN ARCHIVED.
+
 # Contributing
 
 [Andmore](https://www.eclipse.org/andmore) is a fork of the former MOTODEV Studio and Android Development Tools plugins for eclipse.
